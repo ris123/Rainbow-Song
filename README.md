@@ -1,2 +1,3 @@
 # Rainbow-Song
-About Rainbow Songs
+
+A song about rainbows in key of C major.
